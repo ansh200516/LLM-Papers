@@ -40,7 +40,7 @@
 - [GShard](https://arxiv.org/abs/2006.16668)  
 - [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)  
 - [Big Bird](https://arxiv.org/abs/2007.14062)  
-- [GPT-3](https://lnkd.in/gFVBFQap)  
+- [GPT-3](https://arxiv.org/abs/2005.14165)  
 - [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794v4)  
 - [T5](https://arxiv.org/abs/1910.10683)  
 - [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300)  
