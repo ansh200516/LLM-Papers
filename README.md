@@ -17,7 +17,7 @@
 - [Deep contextualized word representations (ELMo)](https://arxiv.org/abs/1802.05365)  
 - [Improving Language Understanding by Generative Pre-Training (GPT)](https://lnkd.in/gbcJETKy)  
 - [SentencePiece: A simple and language independent subword tokenizer and detokenizer](https://arxiv.org/abs/1808.06226)  
-- [Universal Language Model Fine-tuning for Text Classification (ULMFiT)](https://lnkd.in/guiMi8DE)
+- [Universal Language Model Fine-tuning for Text Classification (ULMFiT)](https://arxiv.org/abs/1801.06146)
 
 ---
 
