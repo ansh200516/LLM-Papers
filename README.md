@@ -35,7 +35,7 @@
 
 ## 📘 2020
 
-- [Reformer](https://lnkd.in/gz8_Ftkq)  
+- [Reformer](https://arxiv.org/abs/2001.04451)  
 - [Longformer](https://lnkd.in/gNBJ9Qtc)  
 - [GShard](https://lnkd.in/gJTFfgcm)  
 - [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)  
