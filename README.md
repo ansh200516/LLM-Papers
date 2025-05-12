@@ -36,7 +36,7 @@
 ## 📘 2020
 
 - [Reformer](https://arxiv.org/abs/2001.04451)  
-- [Longformer](https://lnkd.in/gNBJ9Qtc)  
+- [Longformer](https://arxiv.org/abs/2004.05150)  
 - [GShard](https://lnkd.in/gJTFfgcm)  
 - [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)  
 - [Big Bird](https://lnkd.in/gYZuKxKk)  
