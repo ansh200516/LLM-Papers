@@ -1,6 +1,4 @@
-# 🧠 LLM Papers by Year
-
-A chronological list of influential papers in large language models (LLMs), organized by publication year.
+#  LLM Papers by Year
 
 ---
 
