@@ -29,7 +29,7 @@
 - [BART](https://arxiv.org/abs/1910.13461)  
 - [XLNet](https://arxiv.org/abs/1906.08237)  
 - [Megatron-LM](https://arxiv.org/abs/1909.08053)  
-- [Generating Long Sequences with Sparse Transformers](https://lnkd.in/gjbsWemR)
+- [Generating Long Sequences with Sparse Transformers](https://arxiv.org/abs/1904.10509)
 
 ---
 
