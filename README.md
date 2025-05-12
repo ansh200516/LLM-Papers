@@ -27,7 +27,7 @@
 - [RoBERTa](https://arxiv.org/abs/1907.11692)  
 - [DistilBERT](https://arxiv.org/abs/1910.01108)  
 - [BART](https://arxiv.org/abs/1910.13461)  
-- [XLNet](https://lnkd.in/gK4ENGFU)  
+- [XLNet](https://arxiv.org/abs/1906.08237)  
 - [Megatron-LM](https://lnkd.in/gfEnnf7Y)  
 - [Generating Long Sequences with Sparse Transformers](https://lnkd.in/gjbsWemR)
 
