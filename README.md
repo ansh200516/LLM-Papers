@@ -42,7 +42,7 @@
 - [Big Bird](https://arxiv.org/abs/2007.14062)  
 - [GPT-3](https://lnkd.in/gFVBFQap)  
 - [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794v4)  
-- [T5](https://lnkd.in/gSNZnntD)  
+- [T5](https://arxiv.org/abs/1910.10683)  
 - [Measuring Massive Multitask Language Understanding](https://lnkd.in/geGYGgRx)  
 - [ZeRO (Zero Redundancy Optimizer)](https://lnkd.in/gp-bTGmM)  
 - [ELECTRA](https://lnkd.in/gC9QNxvA)  
