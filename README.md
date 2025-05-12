@@ -7,7 +7,7 @@
 - [Attention Is All You Need](https://lnkd.in/gF2X6HbE)  
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://lnkd.in/gRDQpkzw)  
 - [Proximal Policy Optimization Algorithms](https://lnkd.in/g7NX8mPr)  
-- [Deep Reinforcement Learning from Human Preferences](https://lnkd.in/gDrDVMHG)
+- [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741)
 
 ---
 
