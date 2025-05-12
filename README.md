@@ -44,7 +44,7 @@
 - [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794v4)  
 - [T5](https://arxiv.org/abs/1910.10683)  
 - [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300)  
-- [ZeRO (Zero Redundancy Optimizer)](https://lnkd.in/gp-bTGmM)  
+- [ZeRO (Zero Redundancy Optimizer)](https://arxiv.org/abs/1910.02054)  
 - [ELECTRA](https://lnkd.in/gC9QNxvA)  
 - [Scaling Laws](https://lnkd.in/gHvNumQd)
 
