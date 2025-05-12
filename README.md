@@ -13,7 +13,7 @@
 
 ## 📘 2018
 
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://lnkd.in/gfVWKUjJ)  
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)  
 - [Deep contextualized word representations (ELMo)](https://lnkd.in/gK3szKDM)  
 - [Improving Language Understanding by Generative Pre-Training (GPT)](https://lnkd.in/gbcJETKy)  
 - [SentencePiece: A simple and language independent subword tokenizer and detokenizer](https://lnkd.in/g7B_xu9g)  
