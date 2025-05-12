@@ -37,7 +37,7 @@
 
 - [Reformer](https://arxiv.org/abs/2001.04451)  
 - [Longformer](https://arxiv.org/abs/2004.05150)  
-- [GShard](https://lnkd.in/gJTFfgcm)  
+- [GShard](https://arxiv.org/abs/2006.16668)  
 - [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)  
 - [Big Bird](https://lnkd.in/gYZuKxKk)  
 - [GPT-3](https://lnkd.in/gFVBFQap)  
