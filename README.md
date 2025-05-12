@@ -46,7 +46,7 @@
 - [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300)  
 - [ZeRO (Zero Redundancy Optimizer)](https://arxiv.org/abs/1910.02054)  
 - [ELECTRA](https://arxiv.org/abs/2003.10555)  
-- [Scaling Laws](https://lnkd.in/gHvNumQd)
+- [Scaling Laws](https://arxiv.org/abs/2001.08361)
 
 ---
 
