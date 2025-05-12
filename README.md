@@ -24,7 +24,7 @@
 ## 📘 2019
 
 - [Language Models are Unsupervised Multitask Learners (GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  
-- [RoBERTa](https://lnkd.in/gsvSJmh7)  
+- [RoBERTa](https://arxiv.org/abs/1907.11692)  
 - [DistilBERT](https://lnkd.in/gF5Z4A2y)  
 - [BART](https://lnkd.in/ggqZdfmZ)  
 - [XLNet](https://lnkd.in/gK4ENGFU)  
