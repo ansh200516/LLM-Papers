@@ -38,7 +38,7 @@
 - [Reformer](https://lnkd.in/gz8_Ftkq)  
 - [Longformer](https://lnkd.in/gNBJ9Qtc)  
 - [GShard](https://lnkd.in/gJTFfgcm)  
-- [Retrieval-Augmented Generation](https://lnkd.in/gyS3BX7q)  
+- [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401)  
 - [Big Bird](https://lnkd.in/gYZuKxKk)  
 - [GPT-3](https://lnkd.in/gFVBFQap)  
 - [Rethinking Attention with Performers](https://lnkd.in/gTtdQw7w)  
